@@ -19,7 +19,6 @@ Hi there 👋, I'm MOHD AQUIB<br><br>A passionate Data Science student and tech 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) 
 
 ---
-<br>
 [![](https://komarev.com/ghpvc/?username=Aquib6544&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -42,5 +41,5 @@ Hi there 👋, I'm MOHD AQUIB<br><br>A passionate Data Science student and tech 
 </p>
 
 <p align="center">
-  Thanks for playing 💚
+  Thanks for Playing 💚
 </p>
