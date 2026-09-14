@@ -32,3 +32,14 @@ Hi there 👋, I'm MOHD AQUIB<br><br>A passionate Data Science student and tech 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevSushant03/opendotmd-assets/main/game-dev/start-game.jpg" alt="Game Dev Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevSushant03/opendotmd-assets/main/game-dev/game-over.svg" width="600" />
+</p>
+
+<p align="center">
+  Thanks for playing 💚
+</p>
