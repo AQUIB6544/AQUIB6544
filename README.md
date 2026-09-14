@@ -16,7 +16,7 @@ Hi there 👋, I'm MOHD AQUIB<br><br>A passionate Data Science student and tech 
 ![](https://github-profile-trophy.vercel.app/?username=Aquib6544&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) <br>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Aquib6544&icon=0&color=0)](https://visitcount.itsvg.in)
