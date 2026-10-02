@@ -43,3 +43,6 @@ Hi there 👋, I'm MOHD AQUIB<br><br>A passionate Data Science student and tech 
 <p align="center">
   Thanks for Playing 💚
 </p>
+<div align="center">
+  <img src="dashboard.svg" alt="Aquib Developer Dashboard" width="100%">
+</div>
